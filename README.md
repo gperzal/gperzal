@@ -21,7 +21,7 @@
 </div>
 
 <hr style="background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0));height: 1px;border: 0;margin-top: 20px;"  style="background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0));height: 1px;border: 0;margin-top: 20px;"  style="background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0));height: 1px;border: 0;margin-top: 20px;"  style="background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0));height: 1px;border: 0;margin-top: 20px;" >
-<div align="center" >
+<div align="center" style="background-color:#fff">
 <h3>Lenguajes, Framework y herramientas</h3>
 
 <h4>Lenguajes de programación</h4>
