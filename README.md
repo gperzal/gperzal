@@ -78,6 +78,7 @@
 <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img style="background-color: white; border-radius: 8px;padding: 6px;box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);" src="https://upload.vectorlogo.zone/logos/kali/images/324c35f9-62e7-40d5-8d50-3d64fa06ad0e.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img style="background-color: white; border-radius: 8px;padding: 6px;box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/es-cl/" target="_blank" rel="noreferrer"> <img style="background-color: white; border-radius: 8px;padding: 6px;box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img style="background-color: white; border-radius: 8px;padding: 6px;box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);" src="https://upload.vectorlogo.zone/logos/visualstudio_…e/images/0aea25bb-27bb-427f-8d65-f999bf0cba67.svg" alt="vscode" width="40" height="40"/> </a>
 
 </div>
 <hr style="background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0));height: 1px;border: 0;margin-top: 20px;"  style="background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0));height: 1px;border: 0;margin-top: 20px;"  style="background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0));height: 1px;border: 0;margin-top: 20px;"  style="background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0));height: 1px;border: 0;margin-top: 20px;" >
@@ -93,6 +94,10 @@
 <a href="https://fb.com/shionx" target="blank"><img style="background-color: white; border-radius: 8px;padding: 6px;box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);" align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="shionx" height="40" width="40" /></a>
 <a href="mailto:gperzal@gmail.com" target="blank"><img style="background-color: white; border-radius: 8px;padding: 6px;box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);" align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mail" height="40" width="40" /></a>
 <a href="wa.me/568998876935" target="blank"><img style="background-color: white; border-radius: 8px;padding: 6px;box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);" align="center" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="mail" height="40" width="40" /></a>
+
+
+
+
 </p>
 </div>
 </body>
