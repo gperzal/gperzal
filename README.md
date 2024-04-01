@@ -1,9 +1,9 @@
 
-<body style="font-family: 'Arial', sans-serif;margin: 0;padding: 0;color: #c9d1d9;">
+<body>
 
-<div style="font-family: 'Arial', sans-serif; color: #fff; padding: 20px;">
-<h1 align="center" style="font-family: 'Arial', sans-serif;">Hola, soy Guido Perez Zelaya</h1>
-<h3 style="font-family: 'Arial', sans-serif; text-align: center; ">Analista Programador | Estudiante de Ingeniería en Informática | Apasionado por la tecnología </h3>
+<div>
+<h1 align="center">Hola, soy Guido Perez Zelaya</h1>
+<h3 text-align: center; ">Analista Programador | Estudiante de Ingeniería en Informática | Apasionado por la tecnología </h3>
 
 <p style="text-align: justify; max-width: 800px; margin: 20px auto;">Actualmente, estoy profundizando mis conocimientos y habilidades como estudiante de Ingeniería en Informática. Me motiva constantemente el deseo de aprender y de estar al día con las últimas tendencias tecnológicas. Valorizo el trabajo en equipo, donde puedo compartir ideas, aprender de los demás y contribuir al éxito colectivo. Mi objetivo es siempre ofrecer lo mejor de mí en cada proyecto, no por una competencia, sino por el compromiso de entregar resultados de calidad. Busco oportunidades donde pueda aportar valor, compartir conocimientos y crecer junto a otros profesionales apasionados.</p>
 
