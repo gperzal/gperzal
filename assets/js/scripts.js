@@ -1,5 +1,5 @@
 // script.js
-const fechaFinal = new Date("April 30, 2024 23:59:59").getTime();
+const fechaFinal = new Date("May 30, 2024 23:59:59").getTime();
 
 const actualizarContador = () => {
     const ahora = new Date().getTime();
