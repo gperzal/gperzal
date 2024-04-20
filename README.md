@@ -13,7 +13,7 @@
 <ul style="list-style-type: circle; margin: auto;  max-width: 700px;text-align: center, justify;">
 <li>📄 Javascripts FullStack en bootcamp <b>DesafioLatam</b> Enero - Mayo - 2024</li>
 <li>📄 Ingeniería en Informática en <b>Inacap Chile</b> - Marzo - Diciembre - 2024</li>
-<li>👨‍💻 Todos mis proyectos están disponibles en <a href="https://gperzal.github.io/gperzal" >mi GitHub</a> </li>
+<li>👨‍💻 Todos mis proyectos están disponibles en <a href="https://gperzal.github.io/" >mi GitHub</a> </li>
 <li>⚡ Dato curioso <b>Puede que lo parezca, pero al menos hago reír a la gente más que ellos a mí</b></li>
 <li>💬 Frases <b>Escribe tu código, marca la diferencia y transforma vidas.</b></li>
 </ul>
