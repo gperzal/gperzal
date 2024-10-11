@@ -1,109 +1,124 @@
+<h1 align="center">Hola 👋, Soy Guido Perez Zelaya</h1>
 
-<body>
+<h3 align="center">👨‍💻 Analista Programador | Ingeniero en Informática en formación | Geek de profesión</h3>
 
-<div>
-<h1 align="center">Hola, soy Guido Perez Zelaya</h1>
-<h3 align="center">Analista Programador | Estudiante de Ingeniería en Informática | Apasionado por la tecnología </h3>
-
-<p align="justify" >Actualmente, estoy profundizando mis conocimientos y habilidades como estudiante de Ingeniería en Informática. Me motiva constantemente el deseo de aprender y de estar al día con las últimas tendencias tecnológicas. Valorizo el trabajo en equipo, donde puedo compartir ideas, aprender de los demás y contribuir al éxito colectivo. Mi objetivo es siempre ofrecer lo mejor de mí en cada proyecto, no por una competencia, sino por el compromiso de entregar resultados de calidad. Busco oportunidades donde pueda aportar valor, compartir conocimientos y crecer junto a otros profesionales apasionados.</p>
-
-<hr>
-
-<h4 style="margin-top: 20px; margin: 20px auto; text-align: center; max-width: 800px; ">Mi situación actual:</h4>
-<ul style="list-style-type: circle; margin: auto;  max-width: 700px;text-align: center, justify;">
-<li>📄 Javascripts FullStack en bootcamp <b>DesafioLatam</b> Enero - Mayo - 2024</li>
-<li>📄 Ingeniería en Informática en <b>Inacap Chile</b> - Marzo - Diciembre - 2024</li>
-<li>👨‍💻 Todos mis proyectos están disponibles en <a href="https://gperzal.vercel.app" >mi GitHub</a> </li>
-<li>⚡ Dato curioso <b>Puede que lo parezca, pero al menos hago reír a la gente más que ellos a mí</b></li>
-<li>💬 Frases <b>Escribe tu código, marca la diferencia y transforma vidas.</b></li>
-</ul>
-
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="Coding GIF" width="400px" style="border-radius: 15px;">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif" width="300px" style="border-radius: 5px;" />
 </div>
-
-<hr>
-
-<div align="center">
-<h3>Lenguajes, Framework y herramientas</h3>
-
-<h4>Lenguajes de programación</h4>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img  src="https://upload.vectorlogo.zone/logos/javascript/images/806c2e30-cf85-4b36-81bb-037049603c34.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img  src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40"/> </a>
-
-<hr width="350px">
-
-<h4>Frontend Development:</h4>
-
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img   src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img  src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img  src="https://upload.vectorlogo.zone/logos/nextjs/images/abcffb25-b56d-475f-9c82-26818776dc33.svg" alt="flask" width="40" height="40"/> </a>
-
-<hr width="350px">
-
-<h4>Backend Development:</h4>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img  src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img  src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
-
-<hr width="350px">
-
-<h4 >Cloud:</h4>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img  src="https://upload.vectorlogo.zone/logos/microsoft_azure/images/e584dc34-9cda-4cd3-b318-b6fe4909e4f8.svg" alt="azure" width="40" height="40"/> </a>
-
-<hr width="350px">
-
-<h4>Database:</h4>
-
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-
-<a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img  src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img  src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img  src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-
-<hr width="350px">
-
-<h4 >Mobile App Development:</h4>
-
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-
-<hr width="350px">
-
-<h4 >Other:</h4>
-
-<a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img  src="https://upload.vectorlogo.zone/logos/kali/images/324c35f9-62e7-40d5-8d50-3d64fa06ad0e.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/es-cl/" target="_blank" rel="noreferrer"> <img  src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img  src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/0aea25bb-27bb-427f-8d65-f999bf0cba67.svg" alt="vscode" width="40" height="40"/> </a>
-
-</div>
-<hr>
-
 <br>
-<div align="center" >
-  <img  src="https://profile-counter.glitch.me/gperzal/count.svg?"  />
+<p align="center" >
+  <a href="https://gperzal.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+<h2>🚀 Sobre mí</h2>
+
+<p align="justify">
+Como estudiante de Ingeniería en Informática, mi pasión por la tecnología me impulsa a estar constantemente aprendiendo y explorando las últimas tendencias. Valoro enormemente el trabajo en equipo, donde puedo compartir ideas, aprender de otros y contribuir al éxito colectivo. Mi objetivo es siempre dar lo mejor de mí en cada proyecto, no por competir, sino por el compromiso de entregar resultados de calidad. Busco oportunidades para aportar valor, compartir conocimientos y crecer junto a otros profesionales apasionados.
+</p>
+
+- 🎓 Estudiando **Ingeniería en Informática** en Inacap Chile
+- 💻 Graduado del bootcamp de **JavaScript FullStack** en DesafioLatam
+- 🌐 Certificado en **Ciberseguridad de Google** por Coursera
+- 🌱 Siempre aprendiendo y explorando nuevas tecnologías
+- 👯 Buscando colaborar en proyectos innovadores y desafiantes
+- 💼 Portafolio: [https://gperzal.vercel.app](https://gperzal.vercel.app)
+- 💬 Pregúntame sobre **JavaScript, React, Node.js, y desarrollo web**
+- ⚡ Dato curioso: **Puedo hacer reír a la gente más de lo que ellos me hacen reír a mí**
+
+> "Escribe tu código, marca la diferencia y transforma vidas."
+
+---
+
+<h2>🛠️ Tecnologías y Herramientas</h2>
+
+<h3>Lenguajes y Frontend</h3>
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+<h3>Backend y Bases de Datos</h3>
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+<h3>DevOps y Herramientas</h3>
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+
+---
+
+<h2>📊 Estadísticas de GitHub</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gperzal&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gperzal&theme=radical" alt="Racha de GitHub" />
 </div>
 
 <div align="center">
-<h4 >Connect with me:</h4>
-<p >
-<a href="https://linkedin.com/in/guido-perez-zelaya-3b6a32113/" target="blank"><img  align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="guido-perez-zelaya-3b6a32113/" height="40" width="40" /></a>
-<a href="https://fb.com/shionx" target="blank"><img  align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="shionx" height="40" width="40" /></a>
-<a href="mailto:gperzal@gmail.com" target="blank"><img  align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mail" height="40" width="40" /></a>
-<a href="wa.me/568998876935" target="blank"><img  align="center" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="mail" height="40" width="40" /></a>
-
-
-
-
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gperzal&layout=compact&theme=radical" alt="Lenguajes más usados" />
 </div>
-</body>
 
+---
+
+<h2>🏆 Proyectos Destacados</h2>
+
+<div align="center">
+  <a href="https://github.com/gperzal/Clinica-Veterinaria">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gperzal&repo=Clinica-Veterinaria&theme=radical" alt="Clinica-Veterinaria" />
+  </a>
+  <a href="https://github.com/gperzal/Red-Reconocimiento-Numeros-MNIST">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gperzal&repo=Red-Reconocimiento-Numeros-MNIST&theme=radical" alt="Red-Reconocimiento-Numeros-MNIST" />
+  </a>
+</div>
+
+<p align="center">
+  <a href="https://github.com/gperzal?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20más%20proyectos-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Ver más proyectos" />
+  </a>
+</p>
+
+---
+
+<h2>📫 Conecta conmigo</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/guido-perez-zelaya-3b6a32113/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/gperzal" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:gperzal@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://wa.me/568998876935" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/gperzal/count.svg" alt="Visitor Count" />
+</div>
+
+<h4 align="center">¡Gracias por visitar mi perfil! No dudes en contactarme para colaboraciones o simplemente para charlar sobre tecnología. 😊</h4>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gperzal&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="gperzal" />
+</p>
