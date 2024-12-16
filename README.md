@@ -20,7 +20,7 @@ Soy Ingeniero en Informática, mi pasión por la tecnología me impulsa a la inn
 </p>
 
 - 🎓 Graduado **Ingeniería en Informática** en Inacap Chile
-- 🎓 Diplomado **Big Data & Machine Learning ** en Universidad Autonoma de Chile
+- 🎓 Diplomado **Big Data & Machine Learning** en Universidad Autonoma de Chile
 - 💻 Certificado en **JavaScript FullStack** en DesafioLatam
 - 🌐 Certificado en **Ciberseguridad de Google** por Coursera
 - 🌱 Siempre explorando y aprendiendo herramientas y tecnologías modernas.
