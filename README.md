@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, Soy Guido Perez Zelaya</h1>
 
-<h3 align="center">👨‍💻 Analista Programador | Ingeniero en Informática en formación | Geek de profesión</h3>
+<h3 align="center">👨‍💻 Ingeniero en Informática | Desarrollador Full Stack | Geek de profesión</h3>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="Coding GIF" width="425px" style="border-radius: 15px;">
@@ -16,15 +16,16 @@
 <h2>🚀 Sobre mí</h2>
 
 <p align="justify">
-Como estudiante de Ingeniería en Informática, mi pasión por la tecnología me impulsa a estar constantemente aprendiendo y explorando las últimas tendencias. Valoro enormemente el trabajo en equipo, donde puedo compartir ideas, aprender de otros y contribuir al éxito colectivo. Mi objetivo es siempre dar lo mejor de mí en cada proyecto, no por competir, sino por el compromiso de entregar resultados de calidad. Busco oportunidades para aportar valor, compartir conocimientos y crecer junto a otros profesionales apasionados.
+Soy Ingeniero en Informática, mi pasión por la tecnología me impulsa a la innovación y el aprendizaje continuo explorando las últimas tendencias. Me entusiasma explorar nuevas tendencias y transformar ideas en soluciones reales que marquen la diferencia. Creo firmemente en el poder del trabajo en equipo, donde la colaboración y el intercambio de ideas no solo potencian los resultados, sino también el crecimiento colectivo. Mi objetivo no es competir, sino comprometerme a entregar siempre lo mejor, asegurándome de que cada proyecto sea una oportunidad para crear algo de valor y calidad. Estoy en constante búsqueda de desafíos que me permitan crecer, aprender y contribuir junto a profesionales igualmente apasionados por la tecnología.
 </p>
 
-- 🎓 Estudiando **Ingeniería en Informática** en Inacap Chile
-- 💻 Graduado del bootcamp de **JavaScript FullStack** en DesafioLatam
+- 🎓 Graduado **Ingeniería en Informática** en Inacap Chile
+- 🎓 Diplomado **Big Data & Machine Learning ** en Universidad Autonoma de Chile
+- 💻 Certificado en **JavaScript FullStack** en DesafioLatam
 - 🌐 Certificado en **Ciberseguridad de Google** por Coursera
-- 🌱 Siempre aprendiendo y explorando nuevas tecnologías
-- 👯 Buscando colaborar en proyectos innovadores y desafiantes
-- 💬 Pregúntame sobre **JavaScript, React, Node.js, y desarrollo web**
+- 🌱 Siempre explorando y aprendiendo herramientas y tecnologías modernas.
+- 👯 Abierto a colaborar en proyectos innovadores y desafiantes.
+- 💬 Pregúntame sobre **JavaScript, React, Node.js, y arquitecturas modernas.**
 - ⚡ Dato curioso: **Puedo hacer reír a la gente más de lo que ellos me hacen reír a mí**
 
 > "Escribe tu código, marca la diferencia y transforma vidas."
