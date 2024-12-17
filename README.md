@@ -16,7 +16,9 @@
 <h2>🚀 Sobre mí</h2>
 
 <p align="justify">
-Soy Ingeniero en Informática, mi pasión por la tecnología me impulsa a la innovación y el aprendizaje continuo explorando las últimas tendencias. Me entusiasma explorar nuevas tendencias y transformar ideas en soluciones reales que marquen la diferencia. Creo firmemente en el poder del trabajo en equipo, donde la colaboración y el intercambio de ideas no solo potencian los resultados, sino también el crecimiento colectivo. Mi objetivo no es competir, sino comprometerme a entregar siempre lo mejor, asegurándome de que cada proyecto sea una oportunidad para crear algo de valor y calidad. Estoy en constante búsqueda de desafíos que me permitan crecer, aprender y contribuir junto a profesionales igualmente apasionados por la tecnología.
+Soy Ingeniero en Informática, apasionado por la tecnología y comprometido con la innovación y el aprendizaje continuo. Me entusiasma explorar las últimas tendencias tecnológicas y transformar ideas en soluciones reales que generen un impacto positivo.
+Creo firmemente en el poder del trabajo en equipo: la colaboración y el intercambio de ideas no solo potencian los resultados, sino también impulsan el crecimiento profesional y colectivo. Para mí, cada proyecto es una oportunidad para crear valor, aportar calidad y superar expectativas.
+No busco competir, sino comprometerme con la excelencia, asegurándome de que mi contribución esté alineada con los objetivos del equipo y las necesidades del proyecto. Estoy en constante búsqueda de desafíos que me permitan crecer, aprender y colaborar con profesionales igualmente apasionados por la tecnología.
 </p>
 
 - 🎓 Graduado **Ingeniería en Informática** en Inacap Chile
