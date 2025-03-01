@@ -1,6 +1,6 @@
-<h1 align="center">Hola 👋, Soy Guido Perez Zelaya</h1>
+<h1 align="center">Hello 👋, I'm Guido Perez Zelaya</h1>
 
-<h3 align="center">👨‍💻 Ingeniero en Informática | Desarrollador Full Stack | Geek de profesión</h3>
+<h3 align="center">👨‍💻 Computer Engineer | Full Stack Developer | Geek by Profession</h3>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="Coding GIF" width="425px" style="border-radius: 15px;">
@@ -13,32 +13,32 @@
   </a>
 </p>
 
-<h2>🚀 Sobre mí</h2>
+<h2>🚀 About me</h2>
 
 <p align="justify">
-Soy Ingeniero en Informática, apasionado por la tecnología y comprometido con la innovación y el aprendizaje continuo. Me entusiasma explorar las últimas tendencias tecnológicas y transformar ideas en soluciones reales que generen un impacto positivo.
-Creo firmemente en el poder del trabajo en equipo: la colaboración y el intercambio de ideas no solo potencian los resultados, sino también impulsan el crecimiento profesional y colectivo. Para mí, cada proyecto es una oportunidad para crear valor, aportar calidad y superar expectativas.
-No busco competir, sino comprometerme con la excelencia, asegurándome de que mi contribución esté alineada con los objetivos del equipo y las necesidades del proyecto. Estoy en constante búsqueda de desafíos que me permitan crecer, aprender y colaborar con profesionales igualmente apasionados por la tecnología.
+I am a Computer Engineer, passionate about technology and committed to innovation and continuous learning. I am excited about exploring the latest technology trends and transforming ideas into real solutions that generate a positive impact.
+I strongly believe in the power of teamwork: collaboration and the exchange of ideas not only boost results, but also drive professional and collective growth. For me, every project is an opportunity to create value, provide quality and exceed expectations.
+I do not seek to compete, but to commit to excellence, making sure that my contribution is aligned with the team's objectives and the project's needs. I am constantly looking for challenges that allow me to grow, learn and collaborate with professionals equally passionate about technology.
 </p>
 
-- 🎓 Graduado **Ingeniería en Informática** en **Inacap Chile**
-- 🎓 Diplomado **Big Data & Machine Learning** en **Universidad Autónoma de Chile**
-- 💻 Certificado en **JavaScript FullStack** en **Desafío Latam**
-- 🌐 Certificado en **Ciberseguridad de Google** por Coursera
-- 🌱 Siempre explorando y aprendiendo herramientas y tecnologías modernas.
-- 👯 Abierto a colaborar en proyectos innovadores y desafiantes.
-- 💬 Pregúntame sobre **JavaScript, Python y Framework modernos.**
-- ⚡ Dato curioso: **Puedo hacer reír a la gente, incluso cuando ya no quedan motivos para sonreír.**
+- 🎓 Graduate in **Computer Engineering** from **Inacap Chile.**
+- 🎓 Diploma in **Big Data & Machine Learning** from **Universidad Autónoma de Chile.**
+- 💻 Certified in **JavaScript FullStack** from **Desafío Latam.**
+- 🌐 Certified in **Google Cybersecurity** through **Coursera.**
+- 🌱 Always exploring and learning modern tools and technologies.
+- 👯 Open to collaborating on innovative and challenging projects.
+- 💬 Ask me about **JavaScript, Python, and modern frameworks.**
+- ⚡ Fun fact: **I can make people laugh, even when there seems to be no reason to smile.**
 
 ```
-> "Escribe tu código, marca la diferencia y transforma vidas... un 'Hola, mundo' a la vez."
+> "Write your code, make a difference, and transform lives... one 'Hello, world' at a time."
 ```
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Technologies & Tools
 
-### Lenguajes de Programación
+### Programming Languages
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" />
@@ -49,7 +49,7 @@ No busco competir, sino comprometerme con la excelencia, asegurándome de que mi
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50" />
 </div>
 
-### Desarrollo Frontend
+### Frontend Development
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" />
@@ -59,7 +59,7 @@ No busco competir, sino comprometerme con la excelencia, asegurándome de que mi
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" />
 </div>
 
-### Desarrollo Backend
+### Backend Development
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" />
@@ -68,7 +68,7 @@ No busco competir, sino comprometerme con la excelencia, asegurándome de que mi
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="50" height="50" />
 </div>
 
-### Bases de Datos
+### Databases
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" />
@@ -85,7 +85,7 @@ No busco competir, sino comprometerme con la excelencia, asegurándome de que mi
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" />
 </div>
 
-### Otras Herramientas
+### Other Tools
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="50" height="50" />
@@ -96,7 +96,7 @@ No busco competir, sino comprometerme con la excelencia, asegurándome de que mi
 
 ---
 
-<h2>📊 Estadísticas de GitHub</h2>
+<h2>📊 GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gperzal&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
@@ -109,7 +109,7 @@ No busco competir, sino comprometerme con la excelencia, asegurándome de que mi
 
 ---
 
-<h2>🏆 Proyectos Destacados</h2>
+<h2>🏆 Featured Projects</h2>
 
 <div align="center">
   <a href="https://github.com/gperzal/Clinica-Veterinaria">
@@ -128,7 +128,7 @@ No busco competir, sino comprometerme con la excelencia, asegurándome de que mi
 
 ---
 
-<h2>📫 Conecta conmigo</h2>
+<h2>📫 Connect with Me</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/guido-perez-zelaya-3b6a32113/" target="_blank">
@@ -151,7 +151,7 @@ No busco competir, sino comprometerme con la excelencia, asegurándome de que mi
   <img src="https://profile-counter.glitch.me/gperzal/count.svg" alt="Visitor Count" />
 </div>
 
-<h4 align="center">¡Gracias por visitar mi perfil! No dudes en contactarme para colaboraciones o simplemente para charlar sobre tecnología. 😊</h4>
+<h4 align="center">Thank you for visiting my profile! Feel free to contact me for collaborations or just to chat about technology. 😊</h4>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gperzal&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="gperzal" />
 </p>
