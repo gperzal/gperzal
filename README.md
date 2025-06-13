@@ -28,12 +28,16 @@ I do not seek to compete, but to commit to excellence, making sure that my contr
 - 🌱 Always exploring and learning modern tools and technologies.
 - 👯 Open to collaborating on innovative and challenging projects.
 - 💬 Ask me about **JavaScript, Python, and modern frameworks.**
-- ⚡ Fun fact: **I can make people laugh, even when there seems to be no reason to smile.**
-
+- ✨ Philosophy  "Write your code, make a difference, and transform lives... one 'Hello, world' at a time."
+- ⚡ Fun fact: 
 ```
-> "Write your code, make a difference, and transform lives... one 'Hello, world' at a time."
+📜 I can only say that my master plan is to conquer the cloud world (and maybe automate the apocalypse...
+but with CI/CD, test coverage and good commits).
+I talk more to servers than humans and dream of pipelines that run themselves in my sleep. 😴🤖
+If something can be automated, it can be programmed. And if so... I've probably already done it.
+DevOps, but with style. Chaotic style, functional, with clean logs and infinite coffee. ☕🔥
+Save the world or reboot it? Depends on the sprint. 📜
 ```
-
 ---
 
 ## 🛠️ Technologies & Tools
